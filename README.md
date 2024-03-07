@@ -24,3 +24,4 @@ Buatlah rangkaian yang dapat mengatur nyala mati LED dengan ketentuan sebagai be
 6. Kabel micro USB
 
 ### Board Schematic
+[](https://drive.google.com/file/d/1wnCivcFl0jUThX_vyTlwphxaqjGO0jm4/view?usp=drive_link)https://drive.google.com/file/d/1wnCivcFl0jUThX_vyTlwphxaqjGO0jm4/view?usp=drive_link
