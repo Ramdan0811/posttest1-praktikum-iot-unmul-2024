@@ -24,3 +24,4 @@ Buatlah rangkaian yang dapat mengatur nyala mati LED dengan ketentuan sebagai be
 6. Kabel micro USB
 
 ### Board Schematic
+https://github.com/Ramdan0811/posttest1-praktikum-iot-unmul-2024/issues/1#issue-2173294341
